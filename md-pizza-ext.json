@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "",
-        "url_png_logo": "",
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/Hardware-Legnano/Pizza-Stake-Pool/refs/heads/main/pizza64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/Hardware-Legnano/Pizza-Stake-Pool/refs/heads/main/pizza.png",
         "location": "Italy",
         "social": {
             "telegram_handle": "PizzaStakePool",
